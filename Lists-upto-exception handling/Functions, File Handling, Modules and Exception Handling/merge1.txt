@@ -1,0 +1,2 @@
+Python is a general purpose programming language.
+You can use the programming language for developing both desktop and web applications.

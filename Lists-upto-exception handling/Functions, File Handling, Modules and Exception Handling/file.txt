@@ -1,0 +1,4 @@
+Python is a research tool as well as a programming language.
+It is high level, interpreted and loosely coupled language.
+Python is enriched with inbuilt libraries / third party libraries.
+The file extension for python is .py
