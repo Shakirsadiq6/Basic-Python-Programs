@@ -1,5 +1,7 @@
 '''program to reverse the number'''
 
+__author__ = "Shakir Sadiq"
+
 number = int(input('Enter a five digit number= '))
 Reverse = 0
 digit1 = number%10

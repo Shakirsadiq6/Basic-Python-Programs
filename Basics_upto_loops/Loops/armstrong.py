@@ -1,5 +1,7 @@
 '''print out all Armstrong numbers between1 and 500'''
 
+__author__ = "Shakir Sadiq"
+
 FIRST = 1  #first number
 LAST = 500 #last number
 for number in range(FIRST,LAST):

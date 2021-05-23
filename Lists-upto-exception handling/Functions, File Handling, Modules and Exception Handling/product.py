@@ -1,6 +1,8 @@
 ''' function which receives a float and an int from main(), find the product
 of these two and returns the product which is printed through main().'''
 
+__author__ = "Shakir Sadiq"
+
 def product(float_number, integer_number):
     '''function for multiplication of two numbers'''
     product = float_number*integer_number

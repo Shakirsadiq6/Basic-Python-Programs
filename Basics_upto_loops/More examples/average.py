@@ -1,5 +1,7 @@
 '''Take 10 integers from keyboard and print their average'''
 
+__author__ = "Shakir Sadiq"
+
 COUNT = 0
 SUM = 0
 for number in range(0,10):

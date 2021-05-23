@@ -1,5 +1,7 @@
 '''Program to read a file and display contents with its line numbers.'''
 
+__author__ = "Shakir Sadiq"
+
 try:
     with open("file.txt") as open_file:
         for line_number, lines in enumerate(open_file, 1):

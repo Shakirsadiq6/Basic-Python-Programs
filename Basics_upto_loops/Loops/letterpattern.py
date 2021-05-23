@@ -7,6 +7,8 @@
 	 A B                   B A
 	 A                       A   '''
 
+__author__ = "Shakir Sadiq"
+
 SPACE = 0
 for i in range(71,64,-1): #loop for maintaining rows according to the pattern
     for j in range(65,i+1): #loop for inverted triangle pattern

@@ -1,5 +1,7 @@
 '''program to find whether the area of the rectangle is greater than its perimeter'''
 
+__author__ = "Shakir Sadiq"
+
 length = int(input('Enter the length of the rectangle:'))
 breadth = int(input('Enter the breadth of the rectangle:'))
 area = length*breadth

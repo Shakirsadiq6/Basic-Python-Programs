@@ -1,5 +1,6 @@
-'''print the distance between cities in meters, feet, inches and
-centimeters'''
+'''print the distance between cities in meters, feet, inches and centimeters'''
+
+__author__ = "Shakir Sadiq"
 
 kilometer = float(input('Enter distance between cities(in km)= '))
 meter = kilometer*1000

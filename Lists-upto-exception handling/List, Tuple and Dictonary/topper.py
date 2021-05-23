@@ -1,6 +1,8 @@
 '''Create a list of subjects. Assign each subject to 5 students.
 Then Make a list of toppers in each subject'''
 
+__author__ = "Shakir Sadiq"
+
 subjects = ['physics', 'chemistry', 'maths']
 physics_marks = []
 chemistry_marks = []

@@ -1,6 +1,8 @@
 '''calculate the area & perimeter of the rectangle,
 and the area & circumference of the circle'''
 
+__author__ = "Shakir Sadiq"
+
 PI = 3.14
 length = float(input('Enter the length of rectangle= '))
 breadth = float(input('Enter the breadth of rectangle= '))

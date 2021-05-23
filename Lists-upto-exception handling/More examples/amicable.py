@@ -1,5 +1,7 @@
 '''WAP to find the sum of all amicable numbers under 10000'''
 
+__author__ = "Shakir Sadiq"
+
 def amicable_sum(num):
     '''function for amicable numbers sum'''
     divisor_sum = [0] * num

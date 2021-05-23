@@ -1,5 +1,7 @@
 ''' Take input from user until he/she presses q. Print average and sum of all numbers'''
 
+__author__ = "Shakir Sadiq"
+
 print("Start entering numbers=")
 SUM=0
 TOTAL=0

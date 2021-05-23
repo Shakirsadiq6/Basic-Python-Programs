@@ -1,5 +1,7 @@
 '''print pyramid of first 10 english alphabets'''
 
+__author__ = "Shakir Sadiq"
+
 ROWS = 4
 NUMBER = 65
 SPACE = 4

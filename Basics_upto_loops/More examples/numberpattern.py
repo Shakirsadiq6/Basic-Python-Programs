@@ -4,6 +4,8 @@
 	  101
 	   1    '''
 
+__author__ = "Shakir Sadiq"
+
 COLUMN=7
 ROWS=0
 SPACE=3

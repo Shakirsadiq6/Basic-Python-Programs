@@ -1,5 +1,7 @@
 '''program to calculate gross salary of ramesh'''
 
+__author__ = "Shakir Sadiq"
+
 Basic_Salary = float(input('Enter basic salary= ')) #basic salary
 Dearness_allowance = 0.4 * Basic_Salary #dearnessallowance
 Rent_allowance = 0.2 * Basic_Salary #Rentallowance

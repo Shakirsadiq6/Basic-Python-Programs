@@ -2,6 +2,8 @@
 with its category. No item should repeat itself if it exists in more
 than one tuple. Make list of each category defined by dictionary.'''
 
+__author__ = "Shakir Sadiq"
+
 food_items = [('apple','orange','lays','mango'),('peas','apple','potato'),('pizza','burger','lays')]
 print("\nList of food items:\n",food_items,"\n")
 category = {

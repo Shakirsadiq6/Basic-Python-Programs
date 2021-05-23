@@ -1,5 +1,7 @@
 '''Program to read student records and display them in sorted order by name'''
 
+__author__ = "Shakir Sadiq"
+
 read_file = open('studentrecord.txt')
 contents = read_file.readlines()
 contents.sort()

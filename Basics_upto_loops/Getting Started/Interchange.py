@@ -1,5 +1,7 @@
 '''program to interchange the contents of C and D'''
 
+__author__ = "Shakir Sadiq"
+
 c = int(input('Enter first number(C)= '))
 d = int(input('Enter second number(D)= '))
 c = c + d

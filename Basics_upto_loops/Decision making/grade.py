@@ -1,5 +1,7 @@
 '''program that prompts students for their percentage'''
 
+__author__ = "Shakir Sadiq"
+
 percentage = int(input('Enter the percentage of the student='))
 if percentage>=90:
     print('The grade of the student is A')

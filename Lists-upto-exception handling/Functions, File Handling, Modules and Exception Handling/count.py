@@ -1,6 +1,8 @@
 '''Program to read a file and print number of words, alphabets,
 numbers, special characters and white spaces using functions'''
 
+__author__ = "Shakir Sadiq"
+
 def count_function(file):
     '''function for counting characters in a text file.'''
     white_space = 0

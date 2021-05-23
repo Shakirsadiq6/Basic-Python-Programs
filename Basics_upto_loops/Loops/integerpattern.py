@@ -4,6 +4,8 @@
 				  4 5 6
 				 7 8 9 10 '''
 
+__author__ = "Shakir Sadiq"
+
 ROWS = 4   #NUMBER of ROWS
 NUMBER = 1 #Pattern will start with integer 1
 SPACE = 4  #space from the extreme right side of the screen

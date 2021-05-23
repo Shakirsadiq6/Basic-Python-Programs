@@ -2,6 +2,8 @@
 Now he/she ask customer’s budget and according to the budget return best offer
 on items lying under his/her budget.'''
 
+__author__ = "Shakir Sadiq"
+
 items = []
 prices = []
 offer = []

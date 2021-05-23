@@ -1,5 +1,7 @@
 '''print all prime numbers from 1 to 300'''
 
+__author__ = "Shakir Sadiq"
+
 FIRST = 1  #first number
 LAST = 300 #last number
 for num in range(FIRST,LAST+1):

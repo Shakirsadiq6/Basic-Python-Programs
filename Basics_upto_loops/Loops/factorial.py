@@ -1,5 +1,7 @@
 '''Program to find the factorial value of any number'''
 
+__author__ = "Shakir Sadiq"
+
 number = int(input("Enter a number= "))
 if number < 0:
     print("Factorial does not exist for negative number.")

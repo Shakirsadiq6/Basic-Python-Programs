@@ -1,5 +1,7 @@
 '''determine the youngest of Ram, Shyam and Ajay'''
 
+__author__ = "Shakir Sadiq"
+
 ram = int(input('Enter the age of Ram='))
 shyam = int(input('Enter the age of Shyam='))
 ajay = int(input('Enter the age of Ajay='))

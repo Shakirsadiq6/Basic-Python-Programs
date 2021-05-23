@@ -1,5 +1,7 @@
 ''' WAP to print name as abbreviations except the last name'''
 
+__author__ = "Shakir Sadiq"
+
 user = input("Please enter your name: ")
 names = user.split()
 

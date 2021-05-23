@@ -1,6 +1,8 @@
 '''program to merge the content of two files, copy the
 merged file to a specified location. Then split merged file.'''
 
+__author__ = "Shakir Sadiq"
+
 import shutil
 #merging the two files
 try:

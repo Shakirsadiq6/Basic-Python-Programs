@@ -1,5 +1,7 @@
 '''a program to check whether a triangle is valid or not'''
 
+__author__ = "Shakir Sadiq"
+
 first_angle = int(input('Enter the first angle of triangle='))
 second_angle = int(input('Enter the second angle of triangle='))
 third_angle = int(input('Enter the third angle of triangle='))

@@ -1,5 +1,7 @@
 '''determine the youngest and oldest of 3 people'''
 
+__author__ = "Shakir Sadiq"
+
 age1 = int(input('Enter the age of age1='))
 age2 = int(input('Enter the age of age2='))
 age3 = int(input('Enter the age of age3='))

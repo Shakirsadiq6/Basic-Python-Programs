@@ -1,5 +1,7 @@
 '''program to calculate Weekly pay of a person'''
 
+__author__ = "Shakir Sadiq"
+
 work_hours = int(input('Enter total work hours='))
 hourly_wage = int(input('Enter regular hourly wage='))
 total_pay = work_hours*hourly_wage #totalpay

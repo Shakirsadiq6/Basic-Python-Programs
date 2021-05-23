@@ -1,5 +1,7 @@
 '''Print palindrome numbers upto 1 million'''
 
+__author__ = "Shakir Sadiq"
+
 MAXIMUM = 1000000
 print("Palindrome Numbers upto 1 million")
 for num in range(1, MAXIMUM + 1):

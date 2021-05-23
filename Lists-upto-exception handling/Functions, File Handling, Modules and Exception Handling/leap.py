@@ -1,5 +1,7 @@
 '''function to determine whether the year is a leap year or not.'''
 
+__author__ = "Shakir Sadiq"
+
 def year_function(year):
     '''function for defining a leap year'''
     if (year % 4) == 0:

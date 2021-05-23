@@ -1,5 +1,7 @@
 '''Add first seven terms of 1/1! + 2/2! + 3/3! + ...'''
 
+__author__ = "Shakir Sadiq"
+
 SUM = 0
 for i in range(1,8):
     FACTORIAL = 1

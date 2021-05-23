@@ -1,6 +1,8 @@
 '''Ask the customer his budget or range for expenditure
 and return items from list which lies under his/her budget.'''
 
+__author__ = "Shakir Sadiq"
+
 item = []
 prices = []
 for i in range(0, 5):

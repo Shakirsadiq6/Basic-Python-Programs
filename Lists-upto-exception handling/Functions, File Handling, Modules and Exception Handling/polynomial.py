@@ -1,5 +1,6 @@
 '''Write a Function to solve a polynomial equation.'''
 
+__author__ = "Shakir Sadiq"
 
 def polynomial(terms,value_of_x):
     '''function for evaluating a polynomial.'''

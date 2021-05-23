@@ -1,5 +1,7 @@
 '''program to determine whether the year is a leap year or not'''
 
+__author__ = "Shakir Sadiq"
+
 year = int(input('Enter year='))
 if (year % 4) == 0:
     if (year % 100) == 0:

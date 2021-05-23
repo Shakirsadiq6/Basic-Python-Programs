@@ -1,5 +1,7 @@
 '''program to find the value of one number raised to the power of another'''
 
+__author__ = "Shakir Sadiq"
+
 number1 = int(input("Enter the value of the number="))
 number2 = int(input("Enter the power of the number="))
 POWER = 1

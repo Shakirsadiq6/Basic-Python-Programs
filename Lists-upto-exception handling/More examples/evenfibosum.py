@@ -1,5 +1,7 @@
 ''' Wap to print sum of even numbers of fibonacci series upto 4 million'''
 
+__author__ = "Shakir Sadiq"
+
 def evenfibo(number):
     '''function for even fibonacci series'''
     first = 1

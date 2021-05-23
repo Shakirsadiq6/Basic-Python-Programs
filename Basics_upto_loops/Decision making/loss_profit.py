@@ -1,5 +1,7 @@
 '''program to determine whether the seller has made profit or incurred loss'''
 
+__author__ = "Shakir Sadiq"
+
 cost_price = float(input('Enter the cost price= ')) #costprice
 selling_price = float(input('Enter the selling price= ')) #sellingprice
 profit = selling_price - cost_price

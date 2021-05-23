@@ -1,6 +1,8 @@
 '''update list’s elements at even places with increment of 1
 and elements at odd places with increment of 2.'''
 
+__author__ = "Shakir Sadiq"
+
 numbers = [23,12,37,86,63,52,98,47]
 print("List of numbers before:", numbers)
 for i in range(0,8,2):

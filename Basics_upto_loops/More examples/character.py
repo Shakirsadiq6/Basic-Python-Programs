@@ -1,5 +1,7 @@
 '''WAP to find number of vowels, consonants, digits and white_spaces in a string'''
 
+__author__ = "Shakir Sadiq"
+
 DIGIT = 0
 VOWELS = 0
 CONSONANTS = 0

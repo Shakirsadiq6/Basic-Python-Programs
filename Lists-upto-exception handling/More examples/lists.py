@@ -1,5 +1,7 @@
 '''Combine four lists to make two dictionaries and then combine two dictionaries into one'''
 
+__author__ = "Shakir Sadiq"
+
 list1 = ['milk','coffee','rice','Cheese','Cereals']
 list2 = ['milk','coffee','pulses','Alcohol']
 list3 = [90,80,100,70,50]

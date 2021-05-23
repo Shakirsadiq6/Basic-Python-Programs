@@ -1,5 +1,7 @@
 '''program to check if the number is a palindrome or not'''
 
+__author__ = "Shakir Sadiq"
+
 number = int(input('Enter any five digit number='))
 Reverse = 0
 digit1 = number%10

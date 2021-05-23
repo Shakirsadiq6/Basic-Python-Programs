@@ -1,5 +1,7 @@
 '''program to calculate sum of digits of the number'''
 
+__author__ = "Shakir Sadiq"
+
 number = int(input('Enter a five digit number= '))
 Sum = 0
 digit1 = number%10

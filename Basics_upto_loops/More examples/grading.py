@@ -1,5 +1,7 @@
 '''Ask user to enter marks and print grades'''
 
+__author__ = "Shakir Sadiq"
+
 marks = int(input("Enter marks="))
 if marks>80:
     print("Grade A")

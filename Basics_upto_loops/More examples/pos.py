@@ -1,5 +1,7 @@
 '''Decide the place of service of an employee based on their age, sex and marital status'''
 
+__author__ = "Shakir Sadiq"
+
 age = int(input("Enter your age: "))
 sex = input("Enter your gender(M/F): ")
 marital_status = input("Are you married(Y/N)?: ")

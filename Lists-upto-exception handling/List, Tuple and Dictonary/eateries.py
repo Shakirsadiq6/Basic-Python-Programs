@@ -1,6 +1,9 @@
 '''Create a Tuple of eateries of name done by user.
 Make an another tuple Surnames through user input and
 then make third tuple by tagging each name with surname.'''
+
+__author__ = "Shakir Sadiq"
+
 list_tuple = []
 single_list = []
 eateries = tuple(input("Enter eateries: ").split())

@@ -1,5 +1,7 @@
 '''Write a function to obtain the prime factors of this number'''
 
+__author__ = "Shakir Sadiq"
+
 def primefactors(number):
     '''function for prime factors of a number'''
     while number%2 == 0:

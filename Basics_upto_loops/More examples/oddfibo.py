@@ -1,5 +1,7 @@
 ''' WAP to print odd numbers fibonacci series upto 4 million'''
 
+__author__ = "Shakir Sadiq"
+
 TOTAL_TERMS = 4000000
 NUMBER1 = 0
 NUMBER2 = 1

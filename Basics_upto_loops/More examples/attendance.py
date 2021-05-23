@@ -1,5 +1,7 @@
 '''program to determine the attendance if less than 75% student is not allowed to sit in exam. Only medical cause students'''
 
+__author__ = "Shakir Sadiq"
+
 number_of_classes_held = int(input("Total number of classes held:"))
 number_of_classes_attended = int(input("Total number of classes attended:"))
 percentage = (number_of_classes_attended/number_of_classes_held)*100

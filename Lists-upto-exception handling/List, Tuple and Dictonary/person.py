@@ -1,6 +1,8 @@
 '''Make a list of cities chosen by adults
 and print which person has chosen which city'''
 
+__author__ = "Shakir Sadiq"
+
 persons = ['harry','ron','peter','alishba']
 cities = []
 for i in range(0,4):

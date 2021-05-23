@@ -1,6 +1,8 @@
 '''to find the total number of illiterate men and women
 if the population of the town is 80,000'''
 
+__author__ = "Shakir Sadiq"
+
 Total_Population = 80000 #totalpopulation
 Population_Men = (52*Total_Population)/100 #menpopulation
 Population_Women = (Total_Population - Population_Men) #womenpopulation

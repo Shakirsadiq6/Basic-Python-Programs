@@ -1,6 +1,8 @@
 '''program to enter the numbers till the user wants and at the end
 it displays the count of positive, negative and zeros entered'''
 
+__author__ = "Shakir Sadiq"
+
 number = int(input("Number of times you want to enter the integer="))
 NEGATIVE = 0
 POSITIVE = 0

@@ -1,6 +1,8 @@
 '''aggregate marks and percentage marks
 obtained by a student in five different subjects'''
 
+__author__ = "Shakir Sadiq"
+
 english = int(input('Enter the marks of english= '))
 science = int(input('Enter the marks of science= '))
 maths = int(input('Enter the marks of maths= '))

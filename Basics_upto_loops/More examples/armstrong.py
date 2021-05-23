@@ -1,5 +1,7 @@
 '''Print armstrong numbers in range of 1 million'''
 
+__author__ = "Shakir Sadiq"
+
 LOWER = 1
 UPPER = 1000000
 

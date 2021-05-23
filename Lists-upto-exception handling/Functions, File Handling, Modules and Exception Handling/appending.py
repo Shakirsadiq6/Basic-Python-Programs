@@ -1,6 +1,8 @@
 '''Program to append any input text at the end of a file.
 Find size of a given file before and after appending content'''
 
+__author__ = "Shakir Sadiq"
+
 import os
 try:
     myfile = open("file.txt","r")

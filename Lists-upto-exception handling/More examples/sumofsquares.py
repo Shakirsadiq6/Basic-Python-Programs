@@ -1,6 +1,8 @@
 '''WAP to find the difference between the sum of squares of
 first 100 natural numbers and the square of the sum.'''
 
+__author__ = "Shakir Sadiq"
+
 def squaresum(squarenumber):
     '''function to find sum of squares'''
     squaresum = 0
