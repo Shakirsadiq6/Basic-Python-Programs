@@ -1,5 +1,5 @@
 '''Program to produce the following output
-     A B C D E F G F E D C B A
+         A B C D E F G F E D C B A
 	 A B C D E F   F E D C B A
 	 A B C D E       E D C B A
 	 A B C D           D C B A
